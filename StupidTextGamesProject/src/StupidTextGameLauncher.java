@@ -30,6 +30,7 @@ public class StupidTextGameLauncher {
 		games.add(new DungeonEscape());
 		games.add(new GetGoodDayQuotesGame());
 		games.add(new MotivationalQuotes());
+		games.add(new AnasGame());
 		//hi
 		//CSC-305
 		
